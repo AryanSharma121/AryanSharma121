@@ -1,1 +1,1 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&lines=Aryan+Shama;Web+Developer;Open+Source+Enthusiast&center=true&width=600&height=80&background=000000)
+![Scrolling Text](https://readme-typing-svg.herokuapp.com?color=FF0000&background=000000&width=700&height=60&lines=%3C%3C%3C+Aryan+Shama+-+Web+Developer+-+Open+Source+Enthusiast+%3E%3E%3E&center=false&vCenter=true&repeat=true&duration=1200)
