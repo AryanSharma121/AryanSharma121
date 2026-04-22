@@ -1,9 +1,1 @@
-<p align="center">
-<svg width="100%" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="black" stroke="red" stroke-width="2"/>
-  <text x="100%" y="50%" fill="red" font-size="24" dominant-baseline="middle">
-    Aryan Shama - Web Developer - Open Source Enthusiast
-    <animate attributeName="x" from="100%" to="-100%" dur="6s" repeatCount="indefinite"/>
-  </text>
-</svg>
-</p>
+![Scrolling](https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=header&text=Aryan%20Shama%20-%20Web%20Developer%20-%20Open%20Source%20Enthusiast&fontColor=ff0000&animation=blinking)
