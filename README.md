@@ -1,1 +1,1 @@
-[![Aryan Shama](https://img.shields.io/badge/Aryan_Shama-Web_Developer-2ecc71?style=for-the-badge)](.)[![Aryan Shama](https://img.shields.io/badge/Aryan_Shama-Web_Developer-2ecc71?style=for-the-badge)](.)
+![Scrolling Text](https://readme-typing-svg.herokuapp.com?color=FF0000&background=000000&width=700&height=60&lines=%3C%3C%3C+Aryan+Shama+-+Web+Developer+-+Open+Source+Enthusiast+%3E%3E%3E&center=false&vCenter=true&repeat=true&duration=2000)
