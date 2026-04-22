@@ -1,29 +1,17 @@
-![T1](https://readme-typing-svg.herokuapp.com?color=FF0000&background=000000&width=700&height=60&lines=%3C%3C%3C+Aryan+Shama+-+Web+Developer+%3E%3E%3E&center=false&vCenter=true&repeat=true&duration=3000)
+<div align="center">
 
-[![Aryan Shama](https://img.shields.io/badge/Aryan_Shama-Web_Developer-2ecc71?style=for-the-badge)](.)
-[![Aryan Shama](https://img.shields.io/badge/Aryan_Shama-Web_Developer-2ecc71?style=for-the-badge)](.)
-[![Aryan Shama](https://img.shields.io/badge/Aryan_Shama-Web_Developer-2ecc71?style=for-the-badge)](.)
+![Top Ticker](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1&pause=99999&color=FF1111&background=100000&width=900&height=34&lines=◈+JAVASCRIPT+◈+TYPESCRIPT+◈+REACT+◈+NEXT.JS+◈+NODE.JS+◈+EXPRESS+◈+PYTHON+◈+DOCKER+◈+LINUX+◈+GIT+◈+REST+API+◈+GRAPHQL+◈+MONGODB+◈+REDIS+◈+NGINX+◈+CI%2FCD+◈+BASH+◈+TAILWIND)
+╔══════════════════════════════════════════════════════════╗
+║  0x4152                                          0x5348  ║
+╠══════════════════════════════════════════════════════════╣
+![Name](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=40&duration=3000&pause=1000&color=FF0000&background=080808&center=true&vCenter=true&width=900&height=80&lines=ARYAN+SHARMA)
 
-![T2](https://readme-typing-svg.herokuapp.com?color=FFFF00&background=000000&width=700&height=60&lines=%3C%3C%3C+Aryan+Shama+-+Web+Developer+%3E%3E%3E&center=false&vCenter=true&repeat=true&duration=3000)
+![Role](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=800&color=888888&background=080808&center=true&vCenter=true&repeat=true&width=900&height=30&lines=WEB+DEVELOPER+·+OPEN+SOURCE+ENGINEER;FULL+STACK+·+SYSTEM+ARCHITECT;ROOT%40ARYAN%3A~%23+_)
 
-[![Aryan Shama](https://img.shields.io/badge/Aryan_Shama-Web_Developer-2ecc71?style=for-the-badge)](.)
-[![Aryan Shama](https://img.shields.io/badge/Aryan_Shama-Web_Developer-2ecc71?style=for-the-badge)](.)
-[![Aryan Shama](https://img.shields.io/badge/Aryan_Shama-Web_Developer-2ecc71?style=for-the-badge)](.)
+![Status](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=1&pause=99999&color=440000&background=080808&center=true&vCenter=true&width=900&height=24&lines=[+SYSTEM+ONLINE+·+THREAT+LEVEL%3A+MAXIMUM+·+PID%3A+1337+])
+╠══════════════════════════════════════════════════════════╣
+║  SYS_OK                                          ROOT    ║
+╚══════════════════════════════════════════════════════════╝
+![Bottom Ticker](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1&pause=99999&color=FF1111&background=100000&width=900&height=34&lines=▸+AWS+▸+KUBERNETES+▸+TERRAFORM+▸+WEBPACK+▸+PRISMA+▸+SOCKET.IO+▸+JWT+▸+OAUTH+▸+SSH+▸+VIM+▸+TMUX+▸+ZSH+▸+ARCH+LINUX+▸+SSL%2FTLS)
 
-![T3](https://readme-typing-svg.herokuapp.com?color=0000FF&background=000000&width=700&height=60&lines=%3C%3C%3C+Aryan+Shama+-+Web+Developer+%3E%3E%3E&center=false&vCenter=true&repeat=true&duration=3000)
-
-[![Aryan Shama](https://img.shields.io/badge/Aryan_Shama-Web_Developer-2ecc71?style=for-the-badge)](.)
-[![Aryan Shama](https://img.shields.io/badge/Aryan_Shama-Web_Developer-2ecc71?style=for-the-badge)](.)
-[![Aryan Shama](https://img.shields.io/badge/Aryan_Shama-Web_Developer-2ecc71?style=for-the-badge)](.)
-
-![T4](https://readme-typing-svg.herokuapp.com?color=FF69B4&background=000000&width=700&height=60&lines=%3C%3C%3C+Aryan+Shama+-+Web+Developer+%3E%3E%3E&center=false&vCenter=true&repeat=true&duration=3000)
-
-[![Aryan Shama](https://img.shields.io/badge/Aryan_Shama-Web_Developer-2ecc71?style=for-the-badge)](.)
-[![Aryan Shama](https://img.shields.io/badge/Aryan_Shama-Web_Developer-2ecc71?style=for-the-badge)](.)
-[![Aryan Shama](https://img.shields.io/badge/Aryan_Shama-Web_Developer-2ecc71?style=for-the-badge)](.)
-
-![T5](https://readme-typing-svg.herokuapp.com?color=FFA500&background=000000&width=700&height=60&lines=%3C%3C%3C+Aryan+Shama+-+Web+Developer+%3E%3E%3E&center=false&vCenter=true&repeat=true&duration=3000)
-
-[![Aryan Shama](https://img.shields.io/badge/Aryan_Shama-Web_Developer-2ecc71?style=for-the-badge)](.)
-[![Aryan Shama](https://img.shields.io/badge/Aryan_Shama-Web_Developer-2ecc71?style=for-the-badge)](.)
-[![Aryan Shama](https://img.shields.io/badge/Aryan_Shama-Web_Developer-2ecc71?style=for-the-badge)](.)
+</div>
