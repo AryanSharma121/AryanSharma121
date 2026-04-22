@@ -1,1 +1,1 @@
-![Scrolling](https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=header&text=Aryan%20Shama%20-%20Web%20Developer%20-%20Open%20Source%20Enthusiast&fontColor=ff0000&animation=blinking)
+![Scrolling Text](https://readme-typing-svg.herokuapp.com?color=FF0000&background=000000&width=700&height=60&lines=%3C%3C%3C+Aryan+Shama+-+Web+Developer+-+Open+Source+Enthusiast+%3E%3E%3E&center=false&vCenter=true&repeat=true&duration=2000)
