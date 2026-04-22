@@ -1,0 +1,179 @@
+<svg viewBox="0 0 900 340" width="900" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes sl { 0%{transform:translateX(0)} 100%{transform:translateX(-50%)} }
+      @keyframes sr { 0%{transform:translateX(-50%)} 100%{transform:translateX(0)} }
+      @keyframes pb { 0%,100%{opacity:.45} 50%{opacity:1} }
+      @keyframes flk { 0%,100%{opacity:1} 91%{opacity:.7} 93%{opacity:1} 95%{opacity:.5} 97%{opacity:1} }
+      @keyframes scan { 0%{transform:translateY(-5%)} 100%{transform:translateY(110%)} }
+      .tl{animation:sl 24s linear infinite}
+      .tr{animation:sr 18s linear infinite}
+      .bp{animation:pb 3s ease-in-out infinite}
+      .flk{animation:flk 5s ease-in-out infinite}
+      .scan{animation:scan 7s linear infinite}
+    </style>
+    <clipPath id="ct"><rect x="0" y="0" width="900" height="32"/></clipPath>
+    <clipPath id="cb"><rect x="0" y="308" width="900" height="32"/></clipPath>
+    <clipPath id="main"><rect x="0" y="0" width="900" height="340" rx="10"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#main)">
+    <rect width="900" height="340" fill="#020f02"/>
+
+    <!-- Grid lines horizontal -->
+    <line x1="0" y1="56" x2="900" y2="56" stroke="#0a200a" stroke-width="0.4"/>
+    <line x1="0" y1="86" x2="900" y2="86" stroke="#0a200a" stroke-width="0.4"/>
+    <line x1="0" y1="116" x2="900" y2="116" stroke="#0a200a" stroke-width="0.4"/>
+    <line x1="0" y1="146" x2="900" y2="146" stroke="#0a200a" stroke-width="0.4"/>
+    <line x1="0" y1="176" x2="900" y2="176" stroke="#0a200a" stroke-width="0.4"/>
+    <line x1="0" y1="206" x2="900" y2="206" stroke="#0a200a" stroke-width="0.4"/>
+    <line x1="0" y1="236" x2="900" y2="236" stroke="#0a200a" stroke-width="0.4"/>
+    <line x1="0" y1="266" x2="900" y2="266" stroke="#0a200a" stroke-width="0.4"/>
+    <line x1="0" y1="296" x2="900" y2="296" stroke="#0a200a" stroke-width="0.4"/>
+    <!-- Grid lines vertical -->
+    <line x1="100" y1="0" x2="100" y2="340" stroke="#0a200a" stroke-width="0.4"/>
+    <line x1="200" y1="0" x2="200" y2="340" stroke="#0a200a" stroke-width="0.4"/>
+    <line x1="300" y1="0" x2="300" y2="340" stroke="#0a200a" stroke-width="0.4"/>
+    <line x1="450" y1="0" x2="450" y2="340" stroke="#0a200a" stroke-width="0.4"/>
+    <line x1="600" y1="0" x2="600" y2="340" stroke="#0a200a" stroke-width="0.4"/>
+    <line x1="700" y1="0" x2="700" y2="340" stroke="#0a200a" stroke-width="0.4"/>
+    <line x1="800" y1="0" x2="800" y2="340" stroke="#0a200a" stroke-width="0.4"/>
+
+    <!-- Scan line sweep -->
+    <rect x="0" y="0" width="900" height="20" fill="#00ff00" opacity="0.018" class="scan"/>
+
+    <!-- Outer border pulsing -->
+    <rect x="3" y="3" width="894" height="334" rx="8" fill="none" stroke="#00cc00" stroke-width="1.4" class="bp"/>
+    <!-- Inner border -->
+    <rect x="9" y="9" width="882" height="322" rx="5" fill="none" stroke="#003a00" stroke-width="0.6"/>
+
+    <!-- Corner brackets -->
+    <path d="M3 32 L3 3 L32 3" fill="none" stroke="#00ff00" stroke-width="2.2" stroke-linecap="square"/>
+    <path d="M897 32 L897 3 L868 3" fill="none" stroke="#00ff00" stroke-width="2.2" stroke-linecap="square"/>
+    <path d="M3 308 L3 337 L32 337" fill="none" stroke="#00ff00" stroke-width="2.2" stroke-linecap="square"/>
+    <path d="M897 308 L897 337 L868 337" fill="none" stroke="#00ff00" stroke-width="2.2" stroke-linecap="square"/>
+
+    <!-- Corner labels -->
+    <text x="36" y="20" fill="#006600" font-family="monospace" font-size="9">0x4152</text>
+    <text x="864" y="20" fill="#006600" font-family="monospace" font-size="9" text-anchor="end">0x5348</text>
+    <text x="36" y="331" fill="#006600" font-family="monospace" font-size="9">SYS::OK</text>
+    <text x="864" y="331" fill="#006600" font-family="monospace" font-size="9" text-anchor="end">UID::0</text>
+
+    <!-- Top ticker -->
+    <rect x="0" y="0" width="900" height="32" fill="#010d01"/>
+    <rect x="0" y="31" width="900" height="0.8" fill="#00cc00" opacity="0.8"/>
+    <g clip-path="url(#ct)">
+      <g class="tl">
+        <text y="21" fill="#00ee00" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="1.5">
+          <tspan x="0"> ◈ JAVASCRIPT ◈ TYPESCRIPT ◈ REACT ◈ NEXT.JS ◈ NODE.JS ◈ EXPRESS ◈ PYTHON ◈ DOCKER ◈ LINUX ◈ GIT ◈ GRAPHQL ◈ MONGODB ◈ REDIS ◈ NGINX ◈ CI/CD ◈ BASH ◈ TAILWIND ◈ VIM ◈ POSTGRESQL ◈ JAVASCRIPT ◈ TYPESCRIPT ◈ REACT ◈ NEXT.JS ◈ NODE.JS ◈ EXPRESS ◈ PYTHON ◈ DOCKER ◈ LINUX ◈ GIT ◈ GRAPHQL ◈ MONGODB ◈ REDIS ◈ NGINX ◈ CI/CD ◈ BASH ◈ TAILWIND ◈ VIM ◈ POSTGRESQL ◈</tspan>
+        </text>
+      </g>
+    </g>
+
+    <!-- Left binary stream -->
+    <text x="22" y="68"  fill="#003800" font-family="monospace" font-size="9">1</text>
+    <text x="22" y="82"  fill="#004800" font-family="monospace" font-size="9">0</text>
+    <text x="22" y="96"  fill="#003800" font-family="monospace" font-size="9">1</text>
+    <text x="22" y="110" fill="#005800" font-family="monospace" font-size="9">1</text>
+    <text x="22" y="124" fill="#003800" font-family="monospace" font-size="9">0</text>
+    <text x="22" y="138" fill="#004800" font-family="monospace" font-size="9">0</text>
+    <text x="22" y="152" fill="#003800" font-family="monospace" font-size="9">1</text>
+    <text x="22" y="166" fill="#004800" font-family="monospace" font-size="9">0</text>
+    <text x="22" y="180" fill="#003800" font-family="monospace" font-size="9">1</text>
+    <text x="22" y="194" fill="#005800" font-family="monospace" font-size="9">0</text>
+    <text x="22" y="208" fill="#003800" font-family="monospace" font-size="9">1</text>
+    <text x="22" y="222" fill="#004800" font-family="monospace" font-size="9">1</text>
+    <text x="22" y="236" fill="#003800" font-family="monospace" font-size="9">0</text>
+    <text x="22" y="250" fill="#004800" font-family="monospace" font-size="9">1</text>
+    <text x="22" y="264" fill="#003800" font-family="monospace" font-size="9">0</text>
+    <text x="22" y="278" fill="#005800" font-family="monospace" font-size="9">1</text>
+    <text x="22" y="292" fill="#003800" font-family="monospace" font-size="9">0</text>
+
+    <!-- Right binary stream -->
+    <text x="878" y="68"  fill="#003800" font-family="monospace" font-size="9" text-anchor="middle">0</text>
+    <text x="878" y="82"  fill="#004800" font-family="monospace" font-size="9" text-anchor="middle">1</text>
+    <text x="878" y="96"  fill="#003800" font-family="monospace" font-size="9" text-anchor="middle">0</text>
+    <text x="878" y="110" fill="#005800" font-family="monospace" font-size="9" text-anchor="middle">0</text>
+    <text x="878" y="124" fill="#003800" font-family="monospace" font-size="9" text-anchor="middle">1</text>
+    <text x="878" y="138" fill="#004800" font-family="monospace" font-size="9" text-anchor="middle">1</text>
+    <text x="878" y="152" fill="#003800" font-family="monospace" font-size="9" text-anchor="middle">0</text>
+    <text x="878" y="166" fill="#004800" font-family="monospace" font-size="9" text-anchor="middle">1</text>
+    <text x="878" y="180" fill="#003800" font-family="monospace" font-size="9" text-anchor="middle">0</text>
+    <text x="878" y="194" fill="#005800" font-family="monospace" font-size="9" text-anchor="middle">1</text>
+    <text x="878" y="208" fill="#003800" font-family="monospace" font-size="9" text-anchor="middle">0</text>
+    <text x="878" y="222" fill="#004800" font-family="monospace" font-size="9" text-anchor="middle">0</text>
+    <text x="878" y="236" fill="#003800" font-family="monospace" font-size="9" text-anchor="middle">1</text>
+    <text x="878" y="250" fill="#004800" font-family="monospace" font-size="9" text-anchor="middle">0</text>
+    <text x="878" y="264" fill="#003800" font-family="monospace" font-size="9" text-anchor="middle">1</text>
+    <text x="878" y="278" fill="#005800" font-family="monospace" font-size="9" text-anchor="middle">0</text>
+    <text x="878" y="292" fill="#003800" font-family="monospace" font-size="9" text-anchor="middle">1</text>
+
+    <!-- Prompt labels -->
+    <text x="40" y="50" fill="#005500" font-family="monospace" font-size="10">root@aryan:~#</text>
+    <text x="860" y="50" fill="#005500" font-family="monospace" font-size="10" text-anchor="end">ACCESS::GRANTED</text>
+
+    <!-- H-rules top symmetric -->
+    <line x1="38" y1="55" x2="280" y2="55" stroke="#00cc00" stroke-width="0.5" opacity="0.3"/>
+    <circle cx="38" cy="55" r="2.2" fill="#00ff00" opacity="0.55"/>
+    <line x1="862" y1="55" x2="620" y2="55" stroke="#00cc00" stroke-width="0.5" opacity="0.3"/>
+    <circle cx="862" cy="55" r="2.2" fill="#00ff00" opacity="0.55"/>
+
+    <!-- Hexagon avatar -->
+    <polygon points="450,72 478,88 478,120 450,136 422,120 422,88" fill="#010d01" stroke="#00cc00" stroke-width="1.3"/>
+    <polygon points="450,78 473,92 473,116 450,130 427,116 427,92" fill="#020f02" stroke="#003a00" stroke-width="0.5"/>
+    <text x="450" y="113" text-anchor="middle" fill="#00ff00" font-family="monospace" font-size="17" font-weight="bold">AS</text>
+
+    <!-- Name -->
+    <text x="450" y="167" text-anchor="middle" fill="#00ff00" font-family="monospace" font-size="34" font-weight="bold" letter-spacing="6" class="flk">ARYAN SHARMA</text>
+
+    <!-- Role -->
+    <text x="450" y="190" text-anchor="middle" fill="#008800" font-family="monospace" font-size="12" letter-spacing="4">WEB DEVELOPER  ·  OPEN SOURCE ENGINEER</text>
+
+    <!-- Center divider -->
+    <line x1="180" y1="202" x2="720" y2="202" stroke="#003a00" stroke-width="0.8"/>
+    <circle cx="180" cy="202" r="2.2" fill="#00cc00" opacity="0.45"/>
+    <circle cx="720" cy="202" r="2.2" fill="#00cc00" opacity="0.45"/>
+    <circle cx="450" cy="202" r="2.8" fill="#00ff00" opacity="0.65"/>
+
+    <!-- Contact info — 2 column symmetric layout -->
+    <!-- Left col -->
+    <text x="200" y="224" fill="#005500" font-family="monospace" font-size="10">GITHUB</text>
+    <text x="270" y="224" fill="#00bb00" font-family="monospace" font-size="10">github.com/aryanshama</text>
+    <text x="200" y="242" fill="#005500" font-family="monospace" font-size="10">EMAIL</text>
+    <text x="270" y="242" fill="#00bb00" font-family="monospace" font-size="10">aryan@protonmail.com</text>
+    <text x="200" y="260" fill="#005500" font-family="monospace" font-size="10">LOCATION</text>
+    <text x="270" y="260" fill="#00bb00" font-family="monospace" font-size="10">India  ·  UTC+5:30</text>
+
+    <!-- Right col -->
+    <text x="560" y="224" fill="#005500" font-family="monospace" font-size="10">STATUS</text>
+    <text x="620" y="224" fill="#00ff44" font-family="monospace" font-size="10">OPEN TO WORK</text>
+    <text x="560" y="242" fill="#005500" font-family="monospace" font-size="10">STACK</text>
+    <text x="620" y="242" fill="#00bb00" font-family="monospace" font-size="10">FULL STACK + DEVOPS</text>
+    <text x="560" y="260" fill="#005500" font-family="monospace" font-size="10">MODE</text>
+    <text x="620" y="260" fill="#00bb00" font-family="monospace" font-size="10">OSS + FREELANCE</text>
+
+    <!-- Center vertical divider between columns -->
+    <line x1="450" y1="212" x2="450" y2="270" stroke="#003a00" stroke-width="0.6"/>
+
+    <!-- H-rules bottom symmetric -->
+    <line x1="38" y1="276" x2="280" y2="276" stroke="#00cc00" stroke-width="0.5" opacity="0.3"/>
+    <circle cx="38" cy="276" r="2.2" fill="#00ff00" opacity="0.55"/>
+    <line x1="862" y1="276" x2="620" y2="276" stroke="#00cc00" stroke-width="0.5" opacity="0.3"/>
+    <circle cx="862" cy="276" r="2.2" fill="#00ff00" opacity="0.55"/>
+
+    <!-- Status bar -->
+    <text x="40" y="292" fill="#004d00" font-family="monospace" font-size="10">MEM:0xFF  ·  PID:1337</text>
+    <text x="860" y="292" fill="#004d00" font-family="monospace" font-size="10" text-anchor="end">ENCRYPTED  ·  SSL/TLS</text>
+
+    <!-- Bottom ticker -->
+    <rect x="0" y="308" width="900" height="32" fill="#010d01"/>
+    <rect x="0" y="308" width="900" height="0.8" fill="#00cc00" opacity="0.8"/>
+    <g clip-path="url(#cb)">
+      <g class="tr">
+        <text y="329" fill="#00ee00" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="1.5">
+          <tspan x="0"> ▸ AWS ▸ KUBERNETES ▸ TERRAFORM ▸ SOCKET.IO ▸ JWT ▸ OAUTH2 ▸ SSH ▸ ZSH ▸ TMUX ▸ ARCH LINUX ▸ SSL/TLS ▸ PRISMA ▸ WEBPACK ▸ VITEST ▸ REGEX ▸ REVERSE PROXY ▸ AWS ▸ KUBERNETES ▸ TERRAFORM ▸ SOCKET.IO ▸ JWT ▸ OAUTH2 ▸ SSH ▸ ZSH ▸ TMUX ▸ ARCH LINUX ▸ SSL/TLS ▸ PRISMA ▸ WEBPACK ▸ VITEST ▸ REGEX ▸ REVERSE PROXY ▸</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
