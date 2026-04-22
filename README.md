@@ -13,3 +13,9 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=10&section=footer&stroke=cc0000&strokeWidth=3"/>
 
 </div>
+
+<div align="center">
+
+![](./banner.svg)
+
+</div>
